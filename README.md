@@ -1,32 +1,62 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=S4DRA&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=SADRA&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-# Hello There Im Sadra 👋
+<h1 align="center">Hey, I'm Sadra 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Automation+Builder;AI+Explorer" />
+</p>
+
+---
+
 ## 🌐 Portfolio  
-🚀 Check out my work:  
-👉 [Visit My Portfolio](https://your-portfolio-link.com)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Automation+Builder;AI+Explorer;Backend+Developer" />
+  👉 <a href="https://your-portfolio-link.com"><b>Visit My Portfolio</b></a>
 </p>
 
 ---
 
-### ⚡ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,js,unity" />
+## ⚡ About Me
+- 🧠 I build automation systems & backend tools  
+- ⚙️ Focused on real-world problem solving  
+- 🚀 Exploring AI + scraping + scalable systems  
 
 ---
 
-### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=S4DRA&show_icons=true&theme=tokyonight)
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,unity,git,github" />
+</p>
 
-![Snake animation](https://github.com/S4DRA/S4DRA/blob/output/github-contribution-grid-snake.svg)
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S4DRA&theme=tokyo-night)
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S4DRA&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S4DRA&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=S4DRA&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/S4DRA/S4DRA/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Automation+Builder;AI+Explorer;Backend+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
-
-### 🔥 Streak
-![Streak](https://streak-stats.demolab.com/?user=S4DRA&theme=tokyonight)
