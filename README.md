@@ -26,7 +26,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,unity,git,github" />
 </p>
-
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80%" />
+</p>
 ---
 
 ## 📊 Stats
