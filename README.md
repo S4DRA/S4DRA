@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sadra&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text= Hello There Im Sadra 👋&fontSize=40&fontColor=ffffff" />
 
-# Hello There Im Sadra 👋
 
 ## 🌐 Portfolio  
 🚀 Check out my work:  
