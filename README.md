@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=SADRA&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=250&section=header&text=SADRA&fontSize=45&fontColor=ffffff&animation=twinkling" />
 <h1 align="center">Hey, I'm Sadra 👋</h1>
 
 <p align="center">
