@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=SADRA&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=250&section=header&text=SADRA&fontSize=45&fontColor=ffffff&animation=twinkling" />
-<h1 align="center">Hey, I'm Sadra 👋</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Automation+Builder;AI+Explorer" />
@@ -25,10 +24,6 @@
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,unity,git,github" />
-</p>
----
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80%" />
 </p>
 ---
 
