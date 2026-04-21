@@ -9,7 +9,7 @@
 
 ## 🌐 Portfolio  
 <p align="center">
-  👉 <a href="sadraahadiyan.com"><b>Visit My Portfolio</b></a>
+  👉 <a href="www.sadraahadiyan.com"><b>Visit My Portfolio</b></a>
 </p>
 
 ---
